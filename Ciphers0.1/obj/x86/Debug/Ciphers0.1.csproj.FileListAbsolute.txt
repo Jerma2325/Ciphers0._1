@@ -1,0 +1,16 @@
+/Users/tigil/RiderProjects/Ciphers0.1/Ciphers0.1/bin/Debug/Ciphers0._1.exe
+/Users/tigil/RiderProjects/Ciphers0.1/Ciphers0.1/bin/Debug/Ciphers0._1.pdb
+/Users/tigil/RiderProjects/Ciphers0.1/Ciphers0.1/obj/x86/Debug/actool/_PartialAppManifest.items
+/Users/tigil/RiderProjects/Ciphers0.1/Ciphers0.1/obj/x86/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/tigil/RiderProjects/Ciphers0.1/Ciphers0.1/obj/x86/Debug/actool/_ProcessedImageAssetsPath.items
+/Users/tigil/RiderProjects/Ciphers0.1/Ciphers0.1/obj/x86/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/tigil/RiderProjects/Ciphers0.1/Ciphers0.1/obj/x86/Debug/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/tigil/RiderProjects/Ciphers0.1/Ciphers0.1/obj/x86/Debug/coremlc/_PartialAppManifest.items
+/Users/tigil/RiderProjects/Ciphers0.1/Ciphers0.1/obj/x86/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/tigil/RiderProjects/Ciphers0.1/Ciphers0.1/obj/x86/Debug/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/tigil/RiderProjects/Ciphers0.1/Ciphers0.1/obj/x86/Debug/_ProcessedBundleResourcesPath.items
+/Users/tigil/RiderProjects/Ciphers0.1/Ciphers0.1/obj/x86/Debug/_ProcessedContentPath.items
+/Users/tigil/RiderProjects/Ciphers0.1/Ciphers0.1/obj/x86/Debug/Ciphers0.1.csproj.CoreCompileInputs.cache
+/Users/tigil/RiderProjects/Ciphers0.1/Ciphers0.1/obj/x86/Debug/Ciphers0._1.exe
+/Users/tigil/RiderProjects/Ciphers0.1/Ciphers0.1/obj/x86/Debug/Ciphers0._1.pdb
+/Users/tigil/RiderProjects/Ciphers0.1/Ciphers0.1/obj/x86/Debug/Ciphers0.1.csproj.AssemblyReference.cache

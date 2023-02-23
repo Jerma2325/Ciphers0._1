@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_BundleResourceWithLogicalName Include="obj/x86/Debug/ibtool/en.lproj/Main.storyboardc/XdR-x7-jsc-view-AD5-dz-eeF.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>en.lproj/Main.storyboard</InterfaceDefinition>
+      <LogicalName>en.lproj/Main.storyboardc/XdR-x7-jsc-view-AD5-dz-eeF.nib</LogicalName>
+      <OriginalItemSpec>obj/x86/Debug/ibtool/en.lproj/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/x86/Debug/ibtool/en.lproj/Main.storyboardc/sn0-vV-yVA-view-EaQ-zy-aJs.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>en.lproj/Main.storyboard</InterfaceDefinition>
+      <LogicalName>en.lproj/Main.storyboardc/sn0-vV-yVA-view-EaQ-zy-aJs.nib</LogicalName>
+      <OriginalItemSpec>obj/x86/Debug/ibtool/en.lproj/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/x86/Debug/ibtool/en.lproj/Main.storyboardc/MainMenu.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>en.lproj/Main.storyboard</InterfaceDefinition>
+      <LogicalName>en.lproj/Main.storyboardc/MainMenu.nib</LogicalName>
+      <OriginalItemSpec>obj/x86/Debug/ibtool/en.lproj/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/x86/Debug/ibtool/en.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>en.lproj/Main.storyboard</InterfaceDefinition>
+      <LogicalName>en.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</LogicalName>
+      <OriginalItemSpec>obj/x86/Debug/ibtool/en.lproj/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/x86/Debug/ibtool/en.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>en.lproj/Main.storyboard</InterfaceDefinition>
+      <LogicalName>en.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</LogicalName>
+      <OriginalItemSpec>obj/x86/Debug/ibtool/en.lproj/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/x86/Debug/ibtool/en.lproj/Main.storyboardc/NSViewController-Kp9-RQ-AeF.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>en.lproj/Main.storyboard</InterfaceDefinition>
+      <LogicalName>en.lproj/Main.storyboardc/NSViewController-Kp9-RQ-AeF.nib</LogicalName>
+      <OriginalItemSpec>obj/x86/Debug/ibtool/en.lproj/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/x86/Debug/ibtool/en.lproj/Main.storyboardc/NSViewController-sn0-vV-yVA.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>en.lproj/Main.storyboard</InterfaceDefinition>
+      <LogicalName>en.lproj/Main.storyboardc/NSViewController-sn0-vV-yVA.nib</LogicalName>
+      <OriginalItemSpec>obj/x86/Debug/ibtool/en.lproj/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/x86/Debug/ibtool/en.lproj/Main.storyboardc/NSViewController-XdR-x7-jsc.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>en.lproj/Main.storyboard</InterfaceDefinition>
+      <LogicalName>en.lproj/Main.storyboardc/NSViewController-XdR-x7-jsc.nib</LogicalName>
+      <OriginalItemSpec>obj/x86/Debug/ibtool/en.lproj/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/x86/Debug/ibtool/en.lproj/Main.storyboardc/Kp9-RQ-AeF-view-pi7-bD-q4w.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>en.lproj/Main.storyboard</InterfaceDefinition>
+      <LogicalName>en.lproj/Main.storyboardc/Kp9-RQ-AeF-view-pi7-bD-q4w.nib</LogicalName>
+      <OriginalItemSpec>obj/x86/Debug/ibtool/en.lproj/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/x86/Debug/ibtool/en.lproj/Main.storyboardc/Info.plist">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>en.lproj/Main.storyboard</InterfaceDefinition>
+      <LogicalName>en.lproj/Main.storyboardc/Info.plist</LogicalName>
+      <OriginalItemSpec>obj/x86/Debug/ibtool/en.lproj/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+  </ItemGroup>
+</Project>

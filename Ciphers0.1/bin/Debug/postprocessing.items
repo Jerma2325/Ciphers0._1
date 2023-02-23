@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="Ciphers0._1.app/Contents/MacOS/Ciphers0._1">
+      <BCSymbolMapName>Ciphers0._1.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>Ciphers0._1.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/tigil/RiderProjects/Ciphers0.1/Ciphers0.1/obj/x86/Debug/mtouch-symbols.list</SymbolFile>
+      <DSymName>Ciphers0._1.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/tigil/RiderProjects/Ciphers0.1/Ciphers0.1</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

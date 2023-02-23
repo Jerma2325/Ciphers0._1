@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{889DAF3C-0567-41D0-B1E8-431A1034E21B}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Ciphers0.1 PreferredExecutionTarget="MyMacID" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ciphers0.1/Polybius.cs">
+    <Files>
+      <File FileName="Ciphers0.1/Polybius.cs" Line="40" Column="44" />
+      <File FileName="Ciphers0.1/ViewController.designer.cs" Line="357" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ciphers0.1" expanded="True">
+            <Node name="Ciphers0.1" expanded="True">
+              <Node name="en.lproj" expanded="True" />
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+</Properties>
